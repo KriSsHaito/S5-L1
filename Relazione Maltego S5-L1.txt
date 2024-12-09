@@ -1,0 +1,12 @@
+La mia ricerca é iniziata con il prendere come target un azienda di videogiochi famosa chiamata CDProjektRED, ho iniziato la mia ricerca da cercando su google il sito dell'azienda e facendo un controllo riguardo chi é il CEO e dove ha sede questa azienda.
+Con la prima ricerca superficiale ho scoperto che l'azienda ha sede a Varsavia e il CEO é Michał Nowakowski.
+Utilizzando Maltego e facendo una ricerca su lui sono venuto a conoscenza delle sue email e di tutti i domini e siti web collegati alla CDProjektRED.
+In fine, esaminando il dominio "cdprojektred.com" ho trovato il contatto email di uno dei dipendenti, chiamato Marcin Korzycki che dopo una ricerca ha fornito diversi numeri di telefono collegati al suo nome e una pagina LinkedIn che rivela la sua occupazione come "IT Manager" di CDPR da circa 11 anni ed ex dipendente di ServiceDesk.
+
+In oltre, una volta trovato questo mi sono messo ad indagare anche riguardo il gioco di CDPR chiamato "Cyberpunk 2077", gioco in cui Keanu Reeves ha fatto da attore principale.
+Curioso dalla sua figura ho iniziato anche una ricerca nei confronti di Keanu ed é uscito fuori, oltre a varie email e robe simili che possono essere collegate a lui, un sito altamente probabile che sia truffa che promette di far incontrare la persona interessata con Keanu Reeves e si spaccia per il suo management.
+Il sito, oltre a diversi errori di battitura (tra cui il nome stesso di Keanu scritto male e scritto con "KEENU"), possiede anche molteplici "red flag" che fanno capire il suo possibile essere una truffa, una di queste in primis il basso prezzo che propongono per passare un intera vacanza con il famoso attore(circa 5000 dollari).
+
+Faró ulteriori ricerche dopo la consegna fatta per questo esercizio, ma ho trovato molto stimolante e divertente scoprire questi siti e queste informazioni.
+
+
